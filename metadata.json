@@ -1,0 +1,6 @@
+{
+  "name": "Nova AI Chat Assistant",
+  "description": "Modern, sleek, and responsive AI Chat Assistant with real-time REST API integration, conversation history, Markdown formatting, and ChatGPT-inspired UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
